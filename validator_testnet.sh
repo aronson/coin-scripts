@@ -1,0 +1,1 @@
+lighthouse vc --network pyrmont
