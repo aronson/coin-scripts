@@ -1,1 +1,1 @@
-geth --syncmode fast --http --http.port 8545
+exec geth --syncmode fast --http --http.port 8545

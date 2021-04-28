@@ -1,1 +1,1 @@
-lighthouse vc --network pyrmont
+exec lighthouse vc --network pyrmont
